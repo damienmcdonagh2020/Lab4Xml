@@ -1,6 +1,6 @@
 import React from "react";
 import Card from 'react-bootstrap/Card';
-
+//imports card and goes through books
 export class BookItem extends React.Component {
     render() {
         return (
